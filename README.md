@@ -1,14 +1,16 @@
 # MiguelCordovaDev.github.io
  Personal resume posted on GitHub.
 
-> .[!NOTE].
-> Portfolio personal de Alexander Córdova
+:::note
+Portfolio personal de Alexander Córdova
+:::
 
 ## Alexander Miguel Córdova Figueroa
  Mi primer portfolio personal desplegado en GitHub.
 
-> .[!TIP].
-> Link: 
+:::tip
+Link: 
+:::
 
 > .[!IMPORTANT].
 > Portfolio personal de Alexander Córdova
